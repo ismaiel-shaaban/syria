@@ -1621,14 +1621,17 @@ font-weight: bold;
   .xsr\:w-\[90px\] {
     width: 90px;
   }
-
+  .carousel-title{
+    font-size: 3.3rem;
+ 
+  }
   .xsr\:px-\[15px\] {
     padding-left: 15px;
     padding-right: 15px;
   }
 
   .xsr\:text-\[14px\] {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .xsr\:text-\[28px\] {
